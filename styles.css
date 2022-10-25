@@ -8,6 +8,8 @@
   font-family: "Montserrat", sans-serif;
 }
 
+
+
 body {
   background: linear-gradient(to right,#335384, #5ba7d1);
   /* background-size: cover;
@@ -43,7 +45,7 @@ body {
 .resume .resume_left .resume_profile {
   width: 100%;
   height: 340px;
-  
+
 }
 
 .resume .resume_left .resume_profile img {
@@ -130,7 +132,7 @@ body {
   background: linear-gradient(to right, rgb(101, 137, 191) 0%, rgb(101, 137, 191) 100%);
   position: relative;
   /* transform: translate(76.2279px, 761.296px); */
-  
+
 }
 
 .resume .resume_left .resume_skills ul li .skill_per {
